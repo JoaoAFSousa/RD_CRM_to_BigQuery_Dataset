@@ -52,6 +52,6 @@ The specific fields and custom fields that will be displayed depend on specific 
 
 For updating the tables, if you run the code again, it overwrites all the tables, using the dataframe schemas, so you should have no problem if there are deleted or new custom fields, pipelines and so on.
 
-As a requests library begginer, I developed this script as a quick solution for accessing multiple CRM data in my work, and I hope it works for other people purposes as well. If you have any problems, sugestions or alternative solutions for these kinds of scenarios, feel free to reach me by e-mail on:
+As a requests library begginer, I developed this script as a quick solution for accessing multiple CRM data in my work, and I hope it works for other people purposes as well. If you have any problems, sugestions or alternative solutions for these kinds of scenarios, feel free to reach on e-mail:  
 
 joaoaufsousa@gmail.com
