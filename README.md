@@ -9,9 +9,11 @@ If you encounter any bugs or opportunities to improve, you can contact me and/or
 ## Features
 
 - Retrieve data from RD CRM using the RD CRM API
+
 In the rd module, the RDClient class authenticates access when instantiated, and each method fetches data from an endpoint and retrieves it in different suitable ways (mainly pandas DataFrames);
 
 - Organizes and loads the data in BigQuery
+
 The app and jobs provide different options for creating and updating specific tables.
 
 ## Prerequisites
