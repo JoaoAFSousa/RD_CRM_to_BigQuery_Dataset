@@ -25,7 +25,7 @@ The app and jobs provide different options for creating and updating specific ta
 
 You will need to create a Google Cloud Run service from that repository by following the steps below
 
-## Creating a Cloud Run service
+### Creating a Cloud Run service
 <!-- Criar passo a passo para criação de serviço Cloud Run -->
 
 ### Jobs variables
@@ -55,4 +55,4 @@ The data loaded in Big Query should be suffice to provide a wide range of CRM da
 
 The specific fields and custom fields that will be displayed depend on specific account configuration and data. As RD CRM is highly versatile, I tried to set it in a way that I would get what I need in most cases.
 
-If you have any problems, sugestions or alternative solutions for these kinds of scenarios, please reach me on e-mail (joaoaufsousa@gmail.com) or [LinkedIn](www.linkedin.com/in/joão-sousa-11488a19a).
+If you have any problems, sugestions or alternative solutions for these kinds of scenarios, please reach me on e-mail (joaoaufsousa@gmail.com) or [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-sousa-11488a19a/).
